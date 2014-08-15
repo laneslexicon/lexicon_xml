@@ -2622,7 +2622,7 @@
                      <orth extent="full" lang="ar">mtrwk</orth>
                   </form> [pass. part. n. of <foreign lang="ar" TEIform="foreign">taraka</foreign>, <hi rend="ital" TEIform="hi">Left, forsaken,</hi> &amp;c. ―         -b2- ] In lexicology, <hi rend="ital" TEIform="hi">Obsolete.</hi> (Mz 10th <foreign lang="ar" TEIform="foreign">nwE</foreign>.)   </entryFree> 
             </div2> 
-            <div2 n="Alt~urokumaAnu" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="trkmAn" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Alt~urokumaAnu</foreign>
