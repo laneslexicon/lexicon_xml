@@ -1531,7 +1531,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> The <hi rend="ital" TEIform="hi">cancamum-tree:</hi> see <foreign lang="ar" TEIform="foreign">buTomN</foreign> and <foreign lang="ar" TEIform="foreign">DirowN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="qmfT$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="kmfT$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">qmfT$</foreign>
                </head>    
