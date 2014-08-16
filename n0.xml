@@ -10407,7 +10407,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> A man <hi rend="ital" TEIform="hi">having elevated,</hi> [or <hi rend="ital" TEIform="hi">bulging,</hi>] <hi rend="ital" TEIform="hi">sides.</hi> (A.) ―         -b2-  <foreign lang="ar" TEIform="foreign">munotafijN</foreign> A camel <hi rend="ital" TEIform="hi">having</hi> prominent <hi rend="ital" TEIform="hi">flanks.</hi> (TA.) See <foreign lang="ar" TEIform="foreign">naf~aAjN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="tfH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nfH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">tfH</foreign>
                </head>    
