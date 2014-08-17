@@ -5824,12 +5824,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">twY</foreign>
                </head>    
-               <entryFree id="n4218" key="tawiYBa" type="main">     
+               <entryFree id="n4218" key="tawiYa" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">tawiYBa</orth>
-                     <orth extent="full" lang="ar">twyB</orth>
-                  </form>, (T, S, M, Mgh, K,) in the dial. of Teiyi <foreign lang="ar" TEIform="foreign">tawaY</foreign>, (AAF, M,) aor.     
+                     <orth orig="" extent="full" lang="ar">tawiYa</orth>
+                     <orth extent="full" lang="ar">twY</orth>
+                  </form>, (T, S, M, Mgh, K,) in the dial. of Ṭeiyi <foreign lang="ar" TEIform="foreign">tawaY</foreign>, (AAF, M,) aor.     
     <form n="infl">       
                      <orth orig="Ba" lang="ar">tawaYa</orth>
                   </form>, (S, K,) inf. n. <foreign lang="ar" TEIform="foreign">tawFY</foreign>, (T, S, M, Mgh, K,) <hi rend="ital" TEIform="hi">It perished; came to an end;</hi> (S, Mgh, K;) <hi rend="ital" TEIform="hi">it passed away</hi> (T, M, Mgh) <hi rend="ital" TEIform="hi">unhoped for:</hi> (T, M:) said of property. (T, S, M, Mgh.) Hence the saying, in a trad., <foreign lang="ar" TEIform="foreign">laA tawaY EalaY maAli A@moriy^K musolimK</foreign> [<hi rend="ital" TEIform="hi">There shall be no perishing of the property of a man that is a Muslim</hi>]: applied to the case of a man to whom is transferred the responsibility for a debt, and who dies insolvent; meaning that the responsibility shall return to him who transferred it. (Mgh.)    </entryFree> 
