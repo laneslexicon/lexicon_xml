@@ -1373,12 +1373,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bavira</foreign>
                </head>    
-               <entryFree id="n1750" key="Bu" type="main">     
+               <entryFree id="n1750" key="bavira" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">Bu</orth>
-                     <orth extent="full" lang="ar">B</orth>
-                  </form>, (S, M, A, Msb, K,) aor. <foreign lang="ar" TEIform="foreign">bavorN</foreign>, (Msb,) inf. n. <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, Msb, K;) and <foreign lang="ar" TEIform="foreign">bavura</foreign>, (S, M, Msb, K,) aor.      
+                     <orth orig="Bi" extent="full" lang="ar">bavira</orth>
+                     <orth extent="full" lang="ar">bavira</orth>
+	     </form>, (S, M, A, Msb, K,) aor. <form n="infl"><orth orig="Bu" lang="ar">bavura</orth></form>, (Msb,) inf. n. <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, Msb, K;) and <foreign lang="ar" TEIform="foreign">bavura</foreign>, (S, M, Msb, K,) aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">baauva</orth>
                   </form>, (S, M, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">bavorN</foreign> (M, Msb, K) and <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, K;) and <foreign lang="ar" TEIform="foreign">bavurN</foreign>, aor.      
