@@ -56,7 +56,7 @@
          </refsDecl>
       </encodingDesc>
       <profileDesc>
-         <langUsage default="NO">
+         <langUsage default="O">
             <language id="en">
                                         English
                                     </language>
@@ -7396,13 +7396,18 @@
                   </form>,) inf. n. <foreign lang="ar" TEIform="foreign">naSobN</foreign>,] <hi rend="ital" TEIform="hi">He wrote,</hi> or <hi rend="ital" TEIform="hi">pronounced, the</hi> [<hi rend="ital" TEIform="hi">final</hi>] <hi rend="ital" TEIform="hi">letter with</hi> 
                   <foreign lang="ar" TEIform="foreign">naSob</foreign>; (S;) <hi rend="ital" TEIform="hi">which is, in the case of the final inflection of a word, like</hi> 
                   <foreign lang="ar" TEIform="foreign">fatoH</foreign> 
-                  <hi rend="ital" TEIform="hi">in the non-inflection:</hi> (S, K:) [<hi rend="ital" TEIform="hi">i. e., he wrote it,</hi> or <hi rend="ital" TEIform="hi">pronounced it, with</hi> 
-                  <foreign lang="ar" TEIform="foreign">BF</foreign> or      
+                  <hi rend="ital" TEIform="hi">in the non-inflection:</hi> (S, K:) [<hi rend="ital" TEIform="hi">i. e., he wrote it,</hi> or <hi rend="ital" TEIform="hi">pronounced it, with</hi>
+		  <form n="infl">
+		    <orth orig="BF" lang="ar">naSaba</orth>
+		  </form>
+                   or      
     <form n="infl">       
                      <orth orig="Ba" lang="ar">naSaba</orth>
                   </form>:) so called because the sound of a word of which the final letter is so pronounced rises to the highest cavity of the mouth. (Lth.) A conv. term of grammar. (S, K.) <foreign lang="ar" TEIform="foreign">naSaba Alkalimapa</foreign> [<hi rend="ital" TEIform="hi">He wrote,</hi> or <hi rend="ital" TEIform="hi">pronounced, the word with</hi> 
                   <foreign lang="ar" TEIform="foreign">naSob</foreign>, <hi rend="ital" TEIform="hi">i. e., making its vowel of inflection</hi> 
-                  <foreign lang="ar" TEIform="foreign">BF</foreign> or      
+		  <form n="infl">
+		    <orth orig="BF" lang="ar">naSaba</orth>
+		  </form>
     <form n="infl">       
                      <orth orig="Ba" lang="ar">naSaba</orth>
                   </form> &amp;c., <hi rend="ital" TEIform="hi">according to the rules of grammar:</hi>] <hi rend="ital" TEIform="hi">he made the word to have fet-hah as its vowel of inflection.</hi> (Msb.) ―         -b9-  <foreign lang="ar" TEIform="foreign">naSaba lah AlHaroba</foreign>, (inf. n. <foreign lang="ar" TEIform="foreign">naSobN</foreign>, TA,) <hi rend="ital" TEIform="hi">He made war upon him:</hi> syn. <foreign lang="ar" TEIform="foreign">waDaEa</foreign>. (K.) ―         -b10-  Of anything that is raised, and with which one goes to meet, or encounter, a thing, one says <foreign lang="ar" TEIform="foreign">nuSiba</foreign>, and of the agent, <foreign lang="ar" TEIform="foreign">naSaba</foreign>. (M, K.) ―         -b11-  <foreign lang="ar" TEIform="foreign">naSaba lahu</foreign>, aor.      
