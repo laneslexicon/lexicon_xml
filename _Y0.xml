@@ -990,13 +990,6 @@
                   <foreign lang="ar" TEIform="foreign">ywm</foreign> &amp;c.</head>    
                <entryFree>See Supplement <pb n="2981" TEIform="pb"/> SUPPLEMENT TO PARTS VII. AND VIII.   </entryFree> 
             </div2> 
-            <div2 n="q — Y" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
-               <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">q</foreign> — <foreign lang="ar" TEIform="foreign">Y</foreign>
-               </head> 
-               <pb n="2982" TEIform="pb"/> 
-               <pb n="2983" TEIform="pb"/>   
-            </div2> 
          </div1>
       </body>
    </text>
