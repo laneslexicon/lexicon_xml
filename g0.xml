@@ -8302,7 +8302,9 @@
                   </form>, aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">galuta</orth>
-                  </form>, (TK,) inf. n. <foreign lang="ar" TEIform="foreign">galotN</foreign>, (I Aar, O, K,) <hi rend="ital" TEIform="hi">He rescinded,</hi> or <hi rend="ital" TEIform="hi">annulled,</hi> a purchase or sale. (I Aar, O, K, TK.)       -A2-  <foreign lang="ar" TEIform="foreign">galita</foreign>, [aor. <foreign lang="ar" TEIform="foreign">??</foreign>,] (S, O, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">galatN</foreign>, (S, O, K,) <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  </form>, (TK,) inf. n. <foreign lang="ar" TEIform="foreign">galotN</foreign>, (I Aar, O, K,) <hi rend="ital" TEIform="hi">He rescinded,</hi> or <hi rend="ital" TEIform="hi">annulled,</hi> a purchase or sale. (I Aar, O, K, TK.)       -A2-  <foreign lang="ar" TEIform="foreign">galita</foreign>, [aor. <form n="infl">       
+                     <orth orig="Bu" lang="ar">galuta</orth>
+                  </form>,] (S, O, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">galatN</foreign>, (S, O, K,) <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">galiTa</foreign> [<hi rend="ital" TEIform="hi">He made a mistake,</hi> or <hi rend="ital" TEIform="hi">committed an error,</hi> &amp;c.]: (As, I Aar, S, O:) or the former means <hi rend="ital" TEIform="hi">in reckoning,</hi> or <hi rend="ital" TEIform="hi">computation;</hi> and the latter, in speech, (AA, T, S, O, Msb, K,) i. e. he said a thing by mistake meaning to say another thing; (AA, S, O;) or the latter means in reckoning and in speech. (Lb, TA.) It is said in a trad., <foreign lang="ar" TEIform="foreign">laA galata fiY</foreign> 
                   <foreign lang="ar" TEIform="foreign">AlA_isolaAmi</foreign> [<hi rend="ital" TEIform="hi">There shall he no</hi> 
                   <foreign lang="ar" TEIform="foreign">galat</foreign> 
