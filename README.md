@@ -1,6 +1,6 @@
 xml
 ===
 
-The original Perseus XML files are in the master branch
+The original Perseus XML files are in the 'originals' branch.
 
-the branch 'withfixes' is the active branch. Do not make any changes to the master branch.
+The master branch has all the fixes. Do not make any changes to the 'originals'.
