@@ -9706,11 +9706,11 @@
                   </form> 
                   <hi rend="ital" TEIform="hi">Firm;</hi> (K, TA;) applied to a covenant, or compact. (TA.)   </entryFree> 
             </div2> 
-            <div2 n="A^akara" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="Akr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">A^akara</foreign>
                </head>    
-               <entryFree id="n983" key="A^akara" type="main">     
+               <entryFree id="n983" key="Akr" type="main">     
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">A^akara</orth>
