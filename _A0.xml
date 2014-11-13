@@ -15600,11 +15600,11 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>, in the gen. and accus. <foreign lang="ar" TEIform="foreign">A^uwliY</foreign>: see <foreign lang="ar" TEIform="foreign">A^uluw</foreign> in art. <foreign lang="ar" TEIform="foreign">Alw</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="A^uwlaY" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="AwlY" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">A^uwlaY</foreign>
+                  <foreign lang="ar" TEIform="foreign">AwlY</foreign>
                </head>    
-               <entryFree id="n1521" key="A^aw~alu" type="main">     
+               <entryFree id="n1521" key="A^uw~alu" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">A^aw~alu</orth>
                      <orth extent="full" lang="ar">*</orth>
