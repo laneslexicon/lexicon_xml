@@ -5645,6 +5645,12 @@
                      <orth extent="full" lang="ar">mtAr</orth>
                   </form>: see 4. <pb n="323" TEIform="pb"/>    
                </entryFree> 
+	     </div2>
+            <div2 n="twq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">twq</foreign>
+               </head>    
+
                <entryFree id="n4198" key="taAqa A_ilayohi" type="main">     
                   <form>       
                      <itype>1</itype>        
