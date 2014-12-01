@@ -14372,9 +14372,9 @@
                   </form> 
                   <hi rend="ital" TEIform="hi">He has his legs wetted by water in some places, so that their</hi> [<hi rend="ital" TEIform="hi">general</hi>] <hi rend="ital" TEIform="hi">colour is different from the colour of those places.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="baqala" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bql" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">baqala</foreign>
+                  <foreign lang="ar" TEIform="foreign">bql</foreign>
                </head>    
                <entryFree id="n3018" key="baqala" type="main">     
                   <form>       
