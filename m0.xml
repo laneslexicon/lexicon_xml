@@ -5984,8 +5984,9 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mgT</foreign>
                </head>
+               <entryFree>See Supplement   </entryFree>
             </div2>
-            <div2 n="mgnTs" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mgl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mgnTs</foreign>
                </head>
