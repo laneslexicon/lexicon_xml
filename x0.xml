@@ -440,7 +440,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> One <hi rend="ital" TEIform="hi">who conceals himself in order that he may see without the knowledge of him who is seen.</hi> (Mgh.)   </entryFree> 
             </div2> 
-            <div2 n="xbv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="xbt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">xbv</foreign>
                </head>    
