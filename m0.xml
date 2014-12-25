@@ -5130,11 +5130,6 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see art. <foreign lang="ar" TEIform="foreign">Tv</foreign>.   </entryFree>
             </div2>
-            <div2 n="mtH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
-               <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mtH</foreign>
-               </head>
-            </div2>
             <div2 n="mtx" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mtx</foreign>
